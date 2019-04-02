@@ -180,7 +180,7 @@ namespace Ksu.Cis300.UltimateTicTacToe
                     temp = _children[i];
                 }
             }
-            return temp;
+            return temp; 
         }
     }
 }
